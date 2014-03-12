@@ -64,7 +64,7 @@ you are a team of one, you should mark the story as started to get in the habit.
 
 Now open the test/landing_page_test.rb file in RubyMine. This file contains one test for each change we will need to make to the HTML in public/index.html.
 Find the test that relates to displaying the restaurant name in the browser title. The first line of this test is an `it` block that tells you what
-the focus of the test is, in this case it is ""displays the restaurant name in the browser title", and then a [do...end block](https://pine.fm/LearnToProgram/?Chapter=10){:target="_blank"}
+the focus of the test is, in this case it is "displays the restaurant name in the browser title", and then a [do...end block](https://pine.fm/LearnToProgram/?Chapter=10){:target="_blank"}
 that contains the body of the test.
 
 ![Anatomy of a test](/images/basicHtmlStructure/testAnatomy.png)
