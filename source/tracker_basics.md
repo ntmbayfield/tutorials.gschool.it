@@ -57,7 +57,7 @@ Student should be able to:
     * Examples: stakeholder or investor demos, software launches
 
 ## Ordering of stories
-* Stories at the top of the current/backlog are the most important as determined by product owner
+* Stories at the top of the current/backlog are the most important as determined by product owner.
 * Developers help product owner determine size and order of stories during an [iteration planning meeting](http://www.extremeprogramming.org/rules/iterationplanning.html){:target="_blank"}, also known as an IPM.
 * Ideally, developers work on stories in order to maximize business value.
 
