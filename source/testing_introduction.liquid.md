@@ -85,7 +85,7 @@ The mechanics of test driven development (TDD)
 * **Green** - Make is pass using the simplest code possible as quickly as possible
 * **Refactor** - Clean up any messes
 
-**Thats it!**
+**That's it!**
 
 * Test code in one file, production code in another file.
 * Write a test that fails for the correct reason.
