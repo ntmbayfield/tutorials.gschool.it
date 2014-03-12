@@ -107,13 +107,13 @@ Another great thing about writing tests first is it gives us an ability to think
 that we have HTML that contains the [CSS selector](http://www.w3.org/TR/CSS2/selector.html){:target="_blank"} `html head title` so someone has determined that in order to get some text
 to show up in the browser title, you must have HTML that looks something like this:
 
-~~~ html
+```
 <html>
     <head>
         <title></title>
     </head>
 </html>
-~~~
+```
 
 How did I figure out this from the test output? Look at the line "Capybara::ExpectationNotMet: expected to find css "html head title" but there were no matches". This gives me the answer.
 Getting good at reading and deciphering error messages and test outputs is one of the skills that you should strive to get good at quickly. They are a treasure trove of information and let's
