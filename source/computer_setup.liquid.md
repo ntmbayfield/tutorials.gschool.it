@@ -1,4 +1,4 @@
-#Setting up your computer
+#How to Setup Your Computer
 
 You will be spending a lot of time in front of a computer using many different, unfamiliar tools during your time at gSchool. This tutorial will guide you through installing the basic tools we will use. In addition to simply installing the tools, you should take a little time reading each website to understand where each tool fits into your toolbox (also called the toolchain) as a developer. This will help you long term as you form a mental model of the world of software development.
 
