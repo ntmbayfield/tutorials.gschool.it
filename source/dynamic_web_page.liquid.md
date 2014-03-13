@@ -23,9 +23,8 @@ We will use Tracker stories to drive the functionality, some of which will be im
 * Fork and clone [https://github.com/gSchool/dynamic_restaurant_site](https://github.com/gSchool/dynamic_restaurant_site){:target="_blank"}
 * Follow instructions in the [README](https://github.com/gSchool/dynamic_restaurant_site/blob/master/README.md){:target="_blank"}
 
-Once the specs are running, you can start
-making changes by importing the
-stories found [here](http://students.gschool.it/trackerStories/dynamicRubyStories.csv){:target="_blank"}.
+Once the specs are running, you can start making changes by importing the
+stories found [here](http://students.gschool.it/trackerStories/dynamicRuby.csv){:target="_blank"}.
 
 ## References
 
