@@ -42,11 +42,11 @@ A student should be able to:
 * How to identify and fix a merge conflict
 * how to rebase a branch into another branch
 * Rebase vs merge
-* see remote branches
-* fetching remote branches
-* merging remote branches into local branch
-* rebasing remote branches into local branch
-* what 2 command git pull contains
+* See remote branches
+* Fetching remote branches
+* Merging remote branches into local branch
+* Rebasing remote branches into local branch
+* What two commands "git pull" contains
 * Understand why it is good to continually to keep up to date with origin/master
 * Merge that pull request into master
 * Delete a local branch and a remote branch
