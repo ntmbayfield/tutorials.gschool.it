@@ -25,7 +25,7 @@ A student should be able to:
 
 ## Things you should know
 
-* Create a branch with two command and then with only one
+* Create a branch with two commands and then with only one
 * View branches
 * Add two commits to the new branch
 * Push a new branch to GitHub
