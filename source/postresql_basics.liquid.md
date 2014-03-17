@@ -54,7 +54,7 @@ $ launchctl load ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist
 ## Creating users in PostgreSql
 
 Just like you have users on your computer, Postgres allows us to create users that have access to the databases within PostgreSql.
-This series of steps will create a user named gschool_user, ask for a password and give it the proper permissions in PostgreSql. You should use gschool_user
+This series of steps will create a user named gschool_users, ask for a password and give it the proper permissions in PostgreSql. You should use gschool_user
 as the user name and password as the password. You will use this username/password combination when we start accessing
 
 {% terminal %}
