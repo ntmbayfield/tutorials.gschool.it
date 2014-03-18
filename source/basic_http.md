@@ -84,12 +84,12 @@ to interact with web servers
     * key/value pairs
     * Examples: &lt;input type="text"&gt;, &lt;input type="password"&gt;, &lt;select&gt;, etc
 * [Cookies](http://en.wikipedia.org/wiki/HTTP_cookie){:target="_blank"}
-        * show in Chrome Dev Tools
-        * key/value pairs
-        * limited in size to 4kB
-            * Don't store big things in cookie
-        * Rails 3 - can be signed to prevent tampering with but sent in plain text
-        * Rails 4 - signed and encrypted so end users can not read it
+    * show in Chrome Dev Tools
+    * key/value pairs
+    * limited in size to 4kB
+        * Don't store big things in cookie
+    * Rails 3 - can be signed to prevent tampering with but sent in plain text
+    * Rails 4 - signed and encrypted so end users can not read it
 
 ## Getting a response from the server
 * [Response codes](http://en.wikipedia.org/wiki/List_of_HTTP_status_codes){:target="_blank"}
